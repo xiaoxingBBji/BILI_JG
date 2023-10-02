@@ -12,9 +12,9 @@
     "users": [
         {
             "cookieDatas": {
-                "SESSDATA": "xxxxx",
-                "bili_jct": "xxxxx",
-                "DedeUserID": "xxxxx"
+                "SESSDATA": "fda4a8f0%2C1711794738%2Cb39…lwSVkdWM1hSQmpZR0R2TVNsMWdtNkZkSjRxWHdjbXhETEM4OHYzaGRHVk83YTZFVEtaRndsX2F3VlhvMXNxczMxREwwU0JtRklaYU1xLWd6OGVZT3VwaFdBIIEC",
+                "bili_jct": "ea8dc523a819a32141a6a1f4391d42e0",
+                "DedeUserID": "33839876"
             }
         }
     ],
@@ -42,8 +42,8 @@
             "channelkey": "xxxxx"
         },
         "pushplus":{
-            "enable": false,
-            "token": "xxxxx"
+            "enable": ture,
+            "token": "3f13962cf1964191bb95ead9cd384fde"
         }
     }
 }
